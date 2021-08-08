@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nuintari.
-- 👀 I’m interested in lfewer projects marrying themselves to github.
+- 👀 I’m interested in fewer projects marrying themselves to github.
 - 🌱 I’m currently learning to be less tolerant.
 - 💞️ I’m looking to collaborate on killing all humans.
 - 📫 How to reach me ... DON'T
